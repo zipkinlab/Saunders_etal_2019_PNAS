@@ -1,4 +1,4 @@
-# [Multiscale seasonal factors drive the size of winter monarch colonies]
+# Multiscale seasonal factors drive the size of winter monarch colonies
 
 ### Sarah P. Saunders, Leslie Ries, Naresh Neupane, M. Isabel Ramirez, Eligio Garcia-Serrano, Eduardo Rendon-Salinas, & Elise F. Zipkin
 
