@@ -1,8 +1,8 @@
-# Multiscale seasonal factors drive the size of winter monarch colonies
+# [Multiscale seasonal factors drive the size of winter monarch colonies](https://www.pnas.org/content/116/17/8609.full)
 
 ### Sarah P. Saunders, Leslie Ries, Naresh Neupane, M. Isabel Ramirez, Eligio Garcia-Serrano, Eduardo Rendon-Salinas, & Elise F. Zipkin
 
-### Proceedings of the National Academy of Sciences of the United States of America (*In Press*)
+### Proceedings of the National Academy of Sciences of the United States of America 
 
 ### Please contact the first author for questions about the code or data: Sarah P. Saunders (sarahpsaunders@gmail.com)
 ________________________________________________________________________________________________________________________________________
