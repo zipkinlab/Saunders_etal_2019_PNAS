@@ -24,4 +24,4 @@ Monarch butterflies in eastern North America have declined by 84% on Mexican win
 
 4) [Year_Fall.csv](https://github.com/zipkinlab/Saunders_etal_2019_PNAS/blob/master/Year_Fall.csv): Data file of year-specific variables included in the hurdle modeling of monarch winter colonies.
 
-
+Note: There is a typo in the published SI. The coordinates of Regions 1 and 2 should be: 105°W, 40°N and 90°W, 30°N (R1) and 105°W, 30°N and 95°W, 20°N (R2). The SI uploaded here has been coorected.
