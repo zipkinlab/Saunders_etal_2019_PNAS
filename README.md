@@ -14,7 +14,7 @@ Monarch butterflies in eastern North America have declined by 84% on Mexican win
 
 2. [top_model_covs.txt](https://github.com/zipkinlab/Saunders_etal_2019_PNAS/blob/master/top_model_covs.txt): Text file of JAGS model code for the colony-level hurdle model.
 
-## Raw data files
+## Data
 
 1) [SiteYear_Fall.csv](https://github.com/zipkinlab/Saunders_etal_2019_PNAS/blob/master/SiteYear_Fall.csv): Data file of site-year variables included in the hurdle modeling of monarch winter colonies.
 
